@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+  printf("Namaste Duniya!\nNamaste Duniya:\nNamaste Duniya!\n:-");
+  return 0;
+ 
+  }
